@@ -383,7 +383,7 @@ letter-probability matrix: alength= 20 w= 37 nsites= 43 E= 8.4e-920
 
 
 
-Time 14.93 secs.
+Time 13.71 secs.
 
 ********************************************************************************
 
@@ -661,7 +661,7 @@ NK[IT][IL]G[KR]Y[GS][VI][AS]W[LM]K[RL]F[VL]DNDTRYTQFLC[PG][GP]
 
 
 
-Time 27.54 secs.
+Time 26.15 secs.
 
 ********************************************************************************
 
@@ -945,7 +945,7 @@ SS[PAT][VI]R[GS][RKM][IVL]D[TS][SN]RL[AG]VMG[HW]SMGGGG[TS]LR[LA]A
 
 
 
-Time 38.58 secs.
+Time 37.32 secs.
 
 ********************************************************************************
 

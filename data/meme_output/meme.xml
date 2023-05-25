@@ -338,7 +338,7 @@
 </background_frequencies>
 </model>
 <motifs>
-<motif id="motif_1" name="YGAVAISPGYTGTZSSIAWWGPRLASHGFVVITIDTN" alt="MEME-1" width="37" sites="43" ic="113.9" re="105.3" llr="3137" p_value="1.4e-1033" e_value="8.4e-920" bayes_threshold="8.10303" elapsed_time="14.929051">
+<motif id="motif_1" name="YGAVAISPGYTGTZSSIAWWGPRLASHGFVVITIDTN" alt="MEME-1" width="37" sites="43" ic="113.9" re="105.3" llr="3137" p_value="1.4e-1033" e_value="8.4e-920" bayes_threshold="8.10303" elapsed_time="13.706385">
 <scores>
 <alphabet_matrix>
 <alphabet_array>
@@ -3830,7 +3830,7 @@
 </contributing_site>
 </contributing_sites>
 </motif>
-<motif id="motif_2" name="NKIJGKYGVAWLKRFVDNDTRYTQFLCPP" alt="MEME-2" width="29" sites="42" ic="81.3" re="82.5" llr="2402" p_value="1.0e-793" e_value="4.2e-681" bayes_threshold="9.36908" elapsed_time="27.537394">
+<motif id="motif_2" name="NKIJGKYGVAWLKRFVDNDTRYTQFLCPP" alt="MEME-2" width="29" sites="42" ic="81.3" re="82.5" llr="2402" p_value="1.0e-793" e_value="4.2e-681" bayes_threshold="9.36908" elapsed_time="26.147448">
 <scores>
 <alphabet_matrix>
 <alphabet_array>
@@ -6591,7 +6591,7 @@ NK[IT][IL]G[KR]Y[GS][VI][AS]W[LM]K[RL]F[VL]DNDTRYTQFLC[PG][GP]
 </contributing_site>
 </contributing_sites>
 </motif>
-<motif id="motif_3" name="SSPVRGRIDTSRLAVMGHSMGGGGTLRLA" alt="MEME-3" width="29" sites="44" ic="89.1" re="78.8" llr="2403" p_value="1.9e-783" e_value="1.7e-667" bayes_threshold="8.13988" elapsed_time="38.578283">
+<motif id="motif_3" name="SSPVRGRIDTSRLAVMGHSMGGGGTLRLA" alt="MEME-3" width="29" sites="44" ic="89.1" re="78.8" llr="2403" p_value="1.9e-783" e_value="1.7e-667" bayes_threshold="8.13988" elapsed_time="37.320010">
 <scores>
 <alphabet_matrix>
 <alphabet_array>
